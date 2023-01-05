@@ -32,5 +32,6 @@ class selectionsort
 		int a[]={7,4,10,8,3,1};
 		int l=a.length;
 		sort(a,l);
+                System.out.println("hi Karthik");
 	}
 }
